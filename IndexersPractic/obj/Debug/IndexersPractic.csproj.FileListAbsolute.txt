@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\bin\Debug\IndexersPractic.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\bin\Debug\IndexersPractic.exe
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\bin\Debug\IndexersPractic.pdb
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\obj\Debug\IndexersPractic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\obj\Debug\IndexersPractic.exe
+c:\users\admin\documents\visual studio 2015\Projects\IndexersPractic\IndexersPractic\obj\Debug\IndexersPractic.pdb
