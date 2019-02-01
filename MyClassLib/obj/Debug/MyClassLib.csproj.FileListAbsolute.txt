@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\TanksFight\MyClassLib\bin\Debug\MyClassLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\TanksFight\MyClassLib\bin\Debug\MyClassLib.pdb
+c:\users\admin\documents\visual studio 2015\Projects\TanksFight\MyClassLib\obj\Debug\MyClassLib.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\TanksFight\MyClassLib\obj\Debug\MyClassLib.dll
+c:\users\admin\documents\visual studio 2015\Projects\TanksFight\MyClassLib\obj\Debug\MyClassLib.pdb
