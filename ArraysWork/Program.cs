@@ -9,41 +9,7 @@ namespace ArraysWork
     class Program
     {
         static void Main(string[] args)
-        {
-            //string name = "Айбек";
-            //int age = 30;
-            //string address = "Молдагулова 19";
-
-            //String data = new string(new char[] { 'a', 'b', 'c' });
-
-            //string[] splittedText = name.Split('й');
-            //foreach(string entrance in splittedText)
-            //{
-            //    Console.WriteLine(entrance);
-            //}
-
-            //Console.ReadLine();
-
-            //string text;
-
-            //StringBuilder stringBuilder = new StringBuilder();
-            //stringBuilder.Append("Приветствую, ");
-            //stringBuilder.Append(name);
-            //stringBuilder.Append(" возраст ");
-            //stringBuilder.Append(age);
-            //stringBuilder.Append(" адрес ");
-            //stringBuilder.Append(address);
-            //stringBuilder.Append(".");
-
-            //text = stringBuilder.ToString();
-
-            //text = string.Format("Приветствую {0} возраст {1} адрес {2}.", name, age, address);
-
-            //text = $"Приветствую {name} возраст {age} адрес {address}.";
-
-            //string path = @"C:\Program Files\internet explorer\ru-RU";
-
-
+        {            
             // 1
             //const int ONE_DIMENSIONED_ARRAY_SIZE = 5;
             //int[] oneDimensionedArray = new int[5];
