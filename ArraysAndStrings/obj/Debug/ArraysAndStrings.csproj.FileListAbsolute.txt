@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\bin\Debug\ArraysAndStrings.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\bin\Debug\ArraysAndStrings.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\bin\Debug\ArraysAndStrings.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\obj\Debug\ArraysAndStrings.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\obj\Debug\ArraysAndStrings.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArraysAndStrings\ArraysAndStrings\obj\Debug\ArraysAndStrings.pdb
