@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\NamespacesAndExceptions\NamespacesAndExceptions\bin\Debug\NamespacesAndExceptions.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NamespacesAndExceptions\NamespacesAndExceptions\bin\Debug\NamespacesAndExceptions.exe
+c:\users\admin\documents\visual studio 2015\Projects\NamespacesAndExceptions\NamespacesAndExceptions\bin\Debug\NamespacesAndExceptions.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NamespacesAndExceptions\NamespacesAndExceptions\obj\Debug\NamespacesAndExceptions.exe
+c:\users\admin\documents\visual studio 2015\Projects\NamespacesAndExceptions\NamespacesAndExceptions\obj\Debug\NamespacesAndExceptions.pdb
