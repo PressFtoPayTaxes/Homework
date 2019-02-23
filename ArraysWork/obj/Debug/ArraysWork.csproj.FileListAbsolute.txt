@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\bin\Debug\ArraysWork.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\bin\Debug\ArraysWork.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\bin\Debug\ArraysWork.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\obj\Debug\ArraysWork.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\obj\Debug\ArraysWork.exe
+c:\users\admin\documents\visual studio 2015\Projects\ArraysWork\ArraysWork\obj\Debug\ArraysWork.pdb
