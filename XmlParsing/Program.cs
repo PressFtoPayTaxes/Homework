@@ -48,21 +48,21 @@ namespace XmlParsing
             XmlDocument xmlDocument = new XmlDocument();
             var rootElement = xmlDocument.CreateElement("student");
 
-            var idElement = xmlDocument.CreateElement("fio");
-            idElement.InnerText = "Зубенко Михаил Петрович";
-            rootElement.AppendChild(idElement);
+            var fioElement = xmlDocument.CreateElement("fio");
+            fioElement.InnerText = "Зубенко Михаил Петрович";
+            rootElement.AppendChild(fioElement);
 
-            var nameElement = xmlDocument.CreateElement("facultyName");
-            nameElement.InnerText = "Факультет экономики";
-            rootElement.AppendChild(nameElement);
+            var facultyNameElement = xmlDocument.CreateElement("facultyName");
+            facultyNameElement.InnerText = "Факультет экономики";
+            rootElement.AppendChild(facultyNameElement);
 
-            var latitudeElement = xmlDocument.CreateElement("averageMark");
-            latitudeElement.InnerText = string.Concat(10.4);
-            rootElement.AppendChild(latitudeElement);
+            var averageMarkElement = xmlDocument.CreateElement("averageMark");
+            averageMarkElement.InnerText = string.Concat(10.4);
+            rootElement.AppendChild(averageMarkElement);
 
-            var longitudeElement = xmlDocument.CreateElement("hasDebts");
-            longitudeElement.InnerText = string.Concat(false);
-            rootElement.AppendChild(longitudeElement);
+            var hasDebtsElement = xmlDocument.CreateElement("hasDebts");
+            hasDebtsElement.InnerText = string.Concat(false);
+            rootElement.AppendChild(hasDebtsElement);
 
             xmlDocument.AppendChild(xmlDocument.CreateXmlDeclaration("1.0", "UTF-8", null));
             xmlDocument.AppendChild(rootElement);
