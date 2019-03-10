@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\bin\Debug\StructuresAndEnumsPractic.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\bin\Debug\StructuresAndEnumsPractic.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\bin\Debug\StructuresAndEnumsPractic.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\obj\Debug\StructuresAndEnumsPractic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\obj\Debug\StructuresAndEnumsPractic.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\StructuresAndEnumsPractic\StructuresAndEnumsPractic\obj\Debug\StructuresAndEnumsPractic.pdb

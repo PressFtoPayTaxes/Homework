@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\bin\Debug\CollectionsPractic.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\bin\Debug\CollectionsPractic.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\bin\Debug\CollectionsPractic.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\obj\Debug\CollectionsPractic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\obj\Debug\CollectionsPractic.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\CollectionsPractic\CollectionsPractic\obj\Debug\CollectionsPractic.pdb
