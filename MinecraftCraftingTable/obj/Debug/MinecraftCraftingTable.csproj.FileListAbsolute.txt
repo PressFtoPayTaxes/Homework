@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\bin\Debug\MinecraftCraftingTable.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\bin\Debug\MinecraftCraftingTable.exe
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\bin\Debug\MinecraftCraftingTable.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\obj\Debug\MinecraftCraftingTable.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\obj\Debug\MinecraftCraftingTable.exe
+c:\users\admin\documents\visual studio 2015\Projects\MinecraftCraftingTable\MinecraftCraftingTable\obj\Debug\MinecraftCraftingTable.pdb
