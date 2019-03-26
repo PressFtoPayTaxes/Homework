@@ -1,0 +1,7 @@
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\bin\Debug\DelegatesAndEventsPractic.exe.config
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\bin\Debug\DelegatesAndEventsPractic.exe
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\bin\Debug\DelegatesAndEventsPractic.pdb
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\obj\Debug\DelegatesAndEventsPractic.csprojAssemblyReference.cache
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\obj\Debug\DelegatesAndEventsPractic.csproj.CoreCompileInputs.cache
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\obj\Debug\DelegatesAndEventsPractic.exe
+C:\Users\СкоропадИг.CORP\source\repos\DelegatesAndEventsPractic\DelegatesAndEventsPractic\obj\Debug\DelegatesAndEventsPractic.pdb
